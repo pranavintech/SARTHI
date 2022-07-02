@@ -1,6 +1,6 @@
 # SARTHI
 SARTHI(Systematic Application Regulating Total Health Information ) 
-This is a very basic prototype which could
+ is a basic prototype which could
 be used in three areas with different modifications. Firstly it could be used as
 an app-only integrated with arogya setu app to make a complete healthcare
 application which could be downloaded in mobile phones. Secondly, it could
